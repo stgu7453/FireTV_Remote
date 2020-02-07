@@ -14,10 +14,10 @@ Get the IP-address of your FireTV-Stick. Append it with port 5555 so it will loo
 # 4
 Clone this project and enter your FireTV's id in the FireTVController Class as the 'address' variable in "firetv_control.py". 
 
-#5
+# 5
 Find the location of the installed adb executable and add the path in the FireTVController Class as the 'adb_path' variable in "firetv_control.py". 
 
-#6 
+# 6 
 Run 'firetv_control.py' with python3. You can use the following arguments to navigate with the script: 
 - 'center' -> Center Button Press
 - 'back' -> Back Button Press
